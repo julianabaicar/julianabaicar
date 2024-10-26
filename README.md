@@ -1,4 +1,4 @@
-### Olá, me chamo Juliana Baiçar ! 😄
+### Olá, me chamo Juliana Baiçar !
 ###### Bem vindo ao meu perfil GitHub 👋
 ---
 #### Ferramentas e Tecnologias
