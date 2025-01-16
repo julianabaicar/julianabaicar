@@ -17,8 +17,10 @@
 
 ---
 ## Contatos:
+##O link do GitHub é o do Trabalho
 
 <div>
 <a href = "mailto:baicarjuliana@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/juliana-baicar-silva?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVWSxpudgS%2Fecv1kJb8CbAw%3D%3D" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <a href="https://github.com/baicarjuliana"><img loading="lazy" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
