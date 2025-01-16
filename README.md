@@ -1,4 +1,4 @@
-### Olá, me chamo Juliana Baiçar !
+### Olá, me chamo Juliana Baiçar sou Analista e Desenvolvedora de Sistemas, atualmente trabalho como QA (Quality Assurance).
 ###### Bem vindo ao meu perfil GitHub 👋
 ---
 #### Ferramentas e Tecnologias
