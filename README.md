@@ -1,5 +1,6 @@
-### Olá, me chamo Juliana Baiçar sou Analista e Desenvolvedora de Sistemas, atualmente trabalho como QA (Quality Assurance).
-###### Bem vindo ao meu perfil GitHub 👋
+### Olá, me chamo Juliana Baiçar atualmente trabalho como QA Analyst na AllStrategy, sou Analista e Desenvolvedora de Sistemas formada pela Unicesumar e sou estudante de Pós-Graduação MBA na UNIFACEAR em Gestão de Projetos.
+
+###### Seja muito bem vindo ao meu perfil GitHub 👋
 ---
 #### Ferramentas e Tecnologias
 <div align="center">
